@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nananam
+=======
+cob'vjajb
+>>>>>>> f6bc14d587b8096fe11f9ce7690b47efaf631711
